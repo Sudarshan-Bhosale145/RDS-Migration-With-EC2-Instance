@@ -232,6 +232,6 @@ MYSQL-TO-RDS-MIGRATION-USING-EC2/
 💼 Cloud & DevOps Enthusiast
 🎓 BCA Graduate — Shivaji University
 
-* 🔗 **LinkedIn:** (https://www.linkedin.com/in/sudarshan-bhosale))
+* 🔗 **LinkedIn:** (https://www.linkedin.com/in/sudarshan-bhosale-174477374))
 * 🔗 **GitHub:** (https://github.com/Sudarshan-Bhosale145)
   
