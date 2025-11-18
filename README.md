@@ -213,10 +213,15 @@ MYSQL-TO-RDS-MIGRATION-USING-EC2/
 ## 🧾 Summary
 
 ✔️ Created MySQL DB on EC2
+
 ✔️ Exported database using mysqldump
+
 ✔️ Launched RDS MySQL instance
+
 ✔️ Configured network communication
+
 ✔️ Imported SQL data into RDS
+
 ✔️ Verified migration success
 
 ---
