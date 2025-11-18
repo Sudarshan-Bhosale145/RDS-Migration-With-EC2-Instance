@@ -1,8 +1,11 @@
 # MYSQL-TO-RDS-MIGRATION-USING-EC2
 
 **Author:** Sudarshan Dattatray Bhosale
+
 **Project Type:** AWS Cloud | Database Migration
+
 **Version:** 1.0
+
 **License:** MIT
 
 ---
