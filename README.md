@@ -237,7 +237,9 @@ MYSQL-TO-RDS-MIGRATION-USING-EC2/
 ## 🌐 Connect with Me
 
 👨‍💻 **Sudarshan Dattatray Bhosale**
+
 💼 Cloud & DevOps Enthusiast
+
 🎓 BCA Graduate — Shivaji University
 
 * 🔗 **LinkedIn:** (https://www.linkedin.com/in/sudarshan-bhosale-174477374))
